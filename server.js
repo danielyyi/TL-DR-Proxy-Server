@@ -30,7 +30,7 @@ app.post("/summarize", async (req, res) => {
         {
           role: "system",
           content:
-            "You provide a very simple, one-sentence summary of the user's text using as many Fortnite terms as possible.",
+            "Summarize the text in one simple sentence using Fortnite terms. Replace proper nouns with Fortnite-style alliterations and replace nouns with Fortnite items.",
         },
         {
           role: "user",
