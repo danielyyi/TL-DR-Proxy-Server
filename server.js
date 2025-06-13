@@ -63,7 +63,7 @@ app.post("/fortnite", async (req, res) => {
         {
           role: "system",
           content:
-            "You summarize text using Fortnite terms in one clear sentence. Use as many Fortnite terms as possible.",
+            "You summarize text using Fortnite terms in one short, clear sentence. Use as many Fortnite terms as possible.",
         },
         {
           role: "user",
