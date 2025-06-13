@@ -1,6 +1,6 @@
 # TL;DR Proxy Server
 
-The TL;DR Proxy Server is a lightweight Node.js server that securely connects the TL;DR Chrome Extension to the OpenAI API. It protects the API key and handles summarization requests sent from the extension.
+**The TL;DR Proxy Server** is a lightweight Node.js server that securely connects the TL;DR Chrome Extension to the OpenAI API. It protects the API key and handles summarization requests sent from the extension.
 
 **A demo of the chrome extension working is [here](https://youtu.be/21A77E1vTYg)**
 
